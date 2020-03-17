@@ -156,3 +156,6 @@ https://www.bejson.com/convert/ox2str/
 
 ~~2.会无视带有 wx:if 的组件，但其子组件还是会被还原出来的~~
 
+#### 小程序路径
+/data/data/com.tencent.mm/MicroMsg//appbrand/pkg/
+
